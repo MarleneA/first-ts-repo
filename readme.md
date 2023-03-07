@@ -1,0 +1,3 @@
+# Passos para replicar este projeto
+## 1. primeiro comandoSetup Node.js package.jsonnpm init -y
+## 2. segundo comando...
